@@ -19,11 +19,6 @@
 
 Want to request a feature? [Create a GitHub issue!](https://github.com/thirdweb-example/marketplace-template/issues/new)
 
-## Installation
-### 1. Clone the template or [fork it](https://github.com/thirdweb-example/marketplace-template/fork)
-```bash
-git clone https://github.com/thirdweb-example/marketplace-template
-```
 
 ### 2. Install the dependencies
 ```bash
